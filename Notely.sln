@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notely Application", "Notely Application\Notely Application.csproj", "{2C7F4688-4C45-4AE7-9484-AB4CD0265811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7F4688-4C45-4AE7-9484-AB4CD0265811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7F4688-4C45-4AE7-9484-AB4CD0265811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7F4688-4C45-4AE7-9484-AB4CD0265811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7F4688-4C45-4AE7-9484-AB4CD0265811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE3C71C-057F-4015-86B2-F045A98C602D}
+	EndGlobalSection
+EndGlobal
